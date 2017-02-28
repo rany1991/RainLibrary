@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UGUI-Test/UI-Main/03-UI-Main.unity
+  isLoaded: 1
+  isActive: 1
