@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UGUI-Test/UI-Main/03-UI-Main.unity
+- path: Assets/Scenes/Persistent.unity
   isLoaded: 1
   isActive: 1
